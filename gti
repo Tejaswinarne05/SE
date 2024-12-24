@@ -1,0 +1,34 @@
+mkdir de
+cd de
+git inti
+touch neet.txt
+git add .
+git status
+c:/windows/notepad e
+git commit -m "create"
+
+  copy 3 line
+
+git clone link
+
+git checkout -b de
+git push origin de
+git pull origin main
+
+copey pull link
+
+
+DOCKER
+
+mkdir gu
+cd gu
+touch index.html
+notepad index.html
+touch dockerfile
+notepad dockerfile
+
+docker duild -t gu .
+
+docker run -d -p 8080:80 teju
+
+docker ps
